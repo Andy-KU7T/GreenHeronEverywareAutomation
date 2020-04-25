@@ -44,3 +44,6 @@ Create a tiny PowerShell script, add your commands, as shown above. Save it as .
 Create a button, that executes a PowerShell script and choose the script you created above.
 Create different small scripts for each button/switch you would like to with Touch Portal.
 Create buttons for all of these.
+
+
+Green Heron Everyware is owned by Green Heron Engineering LLC (https://www.greenheronengineering.com/). No connections, apart from being a happy user. 
