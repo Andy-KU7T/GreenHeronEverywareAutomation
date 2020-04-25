@@ -35,7 +35,10 @@ Notes:
 
 The || is a special separator between SET_SWITCH, name of switch and name of switch position. To find out what your names are, just copy and paste the commands from GH Everyware server window.
 The software also supports the original special char separator of (char)31.
-Convenient use from non-Windows tables:
+
+Convenient use from non-Windows tablets.
+
+![alt text](GHEverywareTouchPortal.jpg "Touch Portal usage screenshot")
 
 I use this with an application called Touch Portal (https://www.touch-portal.com/). It allows the use of any Android or Apple tablet to switch the antennas without having to use the mouse (if I would use the GH Everyware client) or keyboard short cuts. The GH Everyware client or server do not even have to be in the foreground, they can be minimized or even run on a different computer. All I do is use my left hand and use the touch screen of my tablet. This allows for good automation that does not interrupt the operator (think contesting).
 
