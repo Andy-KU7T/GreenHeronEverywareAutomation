@@ -3,6 +3,8 @@ A Windows PowerShell Cmdlet that allows to control Green Heron's Everyware.
 
 This PowerShell cmdlet allows the control of a Green Heron Everyware server from anywhere. It only requires the server to be reachable via the network. It can be used from any tools, programs, scripts, command line tools that run on Windows.
 
+![alt text](GHEverywarePowershell.png "PowerShell usage screenshot")
+
 PowerShell registration (one time):
 
 Download the dll, put it in a place you remember
